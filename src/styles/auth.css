@@ -1,0 +1,20 @@
+.auth_container {
+    /* width: 500px; */
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.MuiTextField-root {
+    margin: 10px !important;
+}
+
+.auth_container form {
+    margin: 20px;
+}
+
+.MuiButton-contained {
+    margin: 20px !important;
+}
